@@ -10,3 +10,6 @@ confirmar y revisar el historial de confirmaciones
 Revertir cambios confirmados
 combinar cambios en otra rama
 Ejercicio "practica por tu cuenta"
+# Turotial-Python
+Uso del comando "print"
+Uso del comando "input"
