@@ -11,5 +11,15 @@ Revertir cambios confirmados
 combinar cambios en otra rama
 Ejercicio "practica por tu cuenta"
 # Turotial-Python
-Uso del comando "print"
-Uso del comando "input"
+1. Uso del comando "print"
+2. Uso del comando "input"
+3. Entradas
+4. Variables
+5. Operadores matemáticos
+6. Listas
+7. Métodos para listas
+8. Métodos de cuerdas
+9. Corte
+10. Tuplas
+11. Diccionarios
+12. Set
